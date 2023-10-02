@@ -18,6 +18,9 @@ I am a full-stack developer with 16 years of experience building online platform
 * jQuery
 * HTML
 * CSS
+* Python
+* Node.js
+
 ### Projects
 * Online E-commerce Drag-and-Drop Platform* Website and Mobile Application Platform
 * Fashion and Clothing Online Shopping Website
